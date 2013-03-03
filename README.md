@@ -13,4 +13,4 @@ Some extend for jquery.validate.js in Bootstrap
 
 ## screenshot
 
-![usage](http://yansublog-wordpress.stor.sinaapp.com/uploads/2013/03/QQ截图20130303095614.png)
+![usage](https://raw.github.com/suyan/Jquery-Validate-For-Bootstrap/master/screenshot.png)
