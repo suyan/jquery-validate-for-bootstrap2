@@ -23,4 +23,4 @@ Some extend for jquery.validate.js in Bootstrap
 <script type="text/javascript" src="jquery.validate.bootstrap.popover.js"></script>
 ```
 
-![usage](https://raw.github.com/suyan/Jquery-Validate-For-Bootstrap/master/screenshot.png)
+![usage](https://raw.github.com/suyan/Jquery-Validate-For-Bootstrap/master/screenshot2.png)
