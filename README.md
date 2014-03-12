@@ -1,9 +1,13 @@
-Jquery-Validate-For-Bootstrap
+Jquery-Validate-For-Bootstrap2
 =============================
 
-Some extend for jquery.validate.js in Bootstrap
+## Recommendation
 
-## usage
+This plugin just works well in bootstrap2.
+
+I recommend using [bootstrapvalidator](https://github.com/nghuuphuoc/bootstrapvalidator) as a validate component in bootstrap3 project. 
+
+## Usage
 
 ```html
 <script type="text/javascript" src="jquery.js"></script>
@@ -11,7 +15,7 @@ Some extend for jquery.validate.js in Bootstrap
 <script type="text/javascript" src="jquery.validate.bootstrap.js"></script>
 ```
 
-## screenshot
+## Screenshot
 
 ![usage](https://raw.github.com/suyan/Jquery-Validate-For-Bootstrap/master/screenshot.png)
 
